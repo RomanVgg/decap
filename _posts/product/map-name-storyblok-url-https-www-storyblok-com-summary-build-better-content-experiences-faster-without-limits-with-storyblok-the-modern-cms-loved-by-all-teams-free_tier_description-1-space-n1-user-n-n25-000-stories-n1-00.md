@@ -10,5 +10,5 @@ free_tier_description: |-
 
   25,000 stories\
   1,000,000 api requests\
-  250 GB traffic
+  **250 GB traffic**
 ---
